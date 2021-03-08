@@ -20,9 +20,9 @@ namespace Battleship
             Console.WriteLine("There is a Aircraft Carrier, Battleship, Submarine, Crusier, & Destroyer.");
             Console.WriteLine();
             Console.Write("Do you want to start a game? Enter 'Y' to start, or any other key to exit:  ");
-                var check = Console.ReadLine();
+                var check = Console.ReadLine().ToUpper();
                 var GuessCount = 0;
-            while (check == "Y" )
+            while (check == "Y")
                 {
                     Console.WriteLine("pass");
                    // while (true) I got to figure out how to make a map here
@@ -30,7 +30,7 @@ namespace Battleship
                       //  BuildMap();
                    // }
                    Console.Write("Do you want to play again? Enter 'Y' to start, or any other key to exit:  ");
-                   check = Console.ReadLine();
+                   check = Console.ReadLine().ToUpper();
                 }
             
         }
