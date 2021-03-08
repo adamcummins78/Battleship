@@ -1,0 +1,16 @@
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\bin\MCD\Debug\net5.0\Battleship.exe
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\bin\MCD\Debug\net5.0\Battleship.deps.json
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\bin\MCD\Debug\net5.0\Battleship.runtimeconfig.json
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\bin\MCD\Debug\net5.0\Battleship.runtimeconfig.dev.json
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\bin\MCD\Debug\net5.0\Battleship.dll
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\bin\MCD\Debug\net5.0\ref\Battleship.dll
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\bin\MCD\Debug\net5.0\Battleship.pdb
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\obj\MCD\Debug\net5.0\Battleship.csprojAssemblyReference.cache
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\obj\MCD\Debug\net5.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\obj\MCD\Debug\net5.0\Battleship.AssemblyInfoInputs.cache
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\obj\MCD\Debug\net5.0\Battleship.AssemblyInfo.cs
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\obj\MCD\Debug\net5.0\Battleship.csproj.CoreCompileInputs.cache
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\obj\MCD\Debug\net5.0\Battleship.dll
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\obj\MCD\Debug\net5.0\ref\Battleship.dll
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\obj\MCD\Debug\net5.0\Battleship.pdb
+C:\CodeLouisville_TreeHouse\C-sharp\Battleship\Battleship\obj\MCD\Debug\net5.0\Battleship.genruntimeconfig.cache
