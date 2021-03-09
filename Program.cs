@@ -2,7 +2,7 @@
 using System.Linq;
 //using System.Collection.Generic;
 
-namespace Battleship
+namespace BattleshipGame
 {
     class Program
     {
